@@ -2,7 +2,7 @@
 This was a macro I created for my supervisor so that he could pull any amount of data from our ticketing system and have 24 different graphs populate. 
 
 First step was for him to press the first button worksheet titled control panel:
-
+![whole_view](https://github.com/jbradstr/Automated_IT_Ticket_Analyzation/blob/main/AITA_pic1.png?raw=true)
 
 Feel free to view the code here:
 ```vbscript
