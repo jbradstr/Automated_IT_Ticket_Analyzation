@@ -1,8 +1,23 @@
 # Automated_IT_Ticket_Analyzation
 This was a macro I created for my supervisor so that he could pull any amount of data from our ticketing system and have 24 different graphs populate. 
 
-First step was for him to press the first button in the worksheet labeled "control panel". This would create the raw data worksheet that he would then cut the raw data from our ticketing system and paste it into the raw data worksheet.
+**Step1:** The first step was for him to press the first button in the worksheet labeled "control panel". This would create the raw data worksheet that he would then cut the raw data from our ticketing system and paste it into the raw data worksheet.
 ![whole_view](https://github.com/jbradstr/Automated_IT_Ticket_Analyzation/blob/main/AITA_pic1.png?raw=true)
+
+**Step2:** For the second step he simply had to press the second button which takes about 45 seconds or so, but it takes the 10 columns of the raw data pull and transfroms them into 160 columns of data that is then used to create the different charts. (Note names have been deleted for confidentiality.) See below:
+This picture shows the raw data:
+![whole_view](https://github.com/jbradstr/Automated_IT_Ticket_Analyzation/blob/main/AITA_pic2_rawdata.png?raw=true)
+
+This next picture is the expanded form of the raw data, but a zoomed out version in excel:
+![whole_view](https://github.com/jbradstr/Automated_IT_Ticket_Analyzation/blob/main/AITA_pic6_rawdata.png?raw=true)
+
+The next picture shows the first charts that are created. These charts show the top 3 highschools, middle schools, and elementary schools based on IT ticket volumne:
+![whole_view](https://github.com/jbradstr/Automated_IT_Ticket_Analyzation/blob/main/AITA_pic3_top3_closedtickets.png?raw=true)
+
+The next charts are of two different groups.  My supervisor wanted me to split the data between the IT department and the technical assistants (TAs) to see how many tickets those closed versus us.
+![whole_view](https://github.com/jbradstr/Automated_IT_Ticket_Analyzation/blob/main/AITA_pic4_avgclosetime_IT_TA.png?raw=true)
+
+Finally I was able to create charts that showed the top 5 tickets by type and then by year for each of the top 3 high, middle and elementary schools. I incorporated chatGPT to help me create the charts so that the colors for each ticket type corresponded to every other ticket type throughout each of the graphs.  For instance, "CB-Other" is shaded dark blue and I was able to keep this uniform throughout each of the charts.
 
 Feel free to view the code here:
 ```vbscript
