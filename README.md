@@ -9,7 +9,7 @@ This picture shows the raw data:
 ![whole_view](https://github.com/jbradstr/Automated_IT_Ticket_Analyzation/blob/main/AITA_pic2_rawdata.png?raw=true)
 
 This next picture is the expanded form of the raw data, but a zoomed out version in excel:
-![whole_view](https://github.com/jbradstr/Automated_IT_Ticket_Analyzation/blob/main/AITA_pic6_rawdata.png?raw=true)
+![whole_view](https://github.com/jbradstr/Automated_IT_Ticket_Analyzation/blob/main/AITA_pic6_160rawdata.png?raw=true)
 
 The next picture shows the first charts that are created. These charts show the top 3 highschools, middle schools, and elementary schools based on IT ticket volumne:
 ![whole_view](https://github.com/jbradstr/Automated_IT_Ticket_Analyzation/blob/main/AITA_pic3_top3_closedtickets.png?raw=true)
