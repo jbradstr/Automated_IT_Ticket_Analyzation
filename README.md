@@ -1,7 +1,7 @@
 # Automated_IT_Ticket_Analyzation
 This was a macro I created for my supervisor so that he could pull any amount of data from our ticketing system and have 24 different graphs populate. 
 
-First step was for him to press the first button worksheet titled control panel:
+First step was for him to press the first button in the worksheet labeled "control panel". This would create the raw data worksheet that he would then cut the raw data from our ticketing system and paste it into the raw data worksheet.
 ![whole_view](https://github.com/jbradstr/Automated_IT_Ticket_Analyzation/blob/main/AITA_pic1.png?raw=true)
 
 Feel free to view the code here:
