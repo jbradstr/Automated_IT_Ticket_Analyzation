@@ -14,7 +14,7 @@ This next picture is the expanded form of the raw data, but a zoomed out version
 The next picture shows the first charts that are created. These charts show the top 3 highschools, middle schools, and elementary schools based on IT ticket volumne:
 ![whole_view](https://github.com/jbradstr/Automated_IT_Ticket_Analyzation/blob/main/AITA_pic3_top3_closedtickets.png?raw=true)
 
-The next charts are of two different groups.  My supervisor wanted me to split the data between the IT department and the technical assistants (TAs) to see how many tickets those closed versus us.
+The next charts are of two different groups.  My supervisor wanted me to split the data between the IT department and the technical assistants (TAs) to see how many tickets TAs closed versus the IT Department.
 ![whole_view](https://github.com/jbradstr/Automated_IT_Ticket_Analyzation/blob/main/AITA_pic4_avgclosetime_IT_TA.png?raw=true)
 
 Finally I was able to create charts that showed the top 5 tickets by type and then by year for each of the top 3 high, middle and elementary schools. I incorporated chatGPT to help me create the charts so that the colors for each ticket type corresponded to every other ticket type throughout each of the graphs.  For instance, "CB-Other" is shaded dark blue and I was able to keep this uniform throughout each of the charts.
