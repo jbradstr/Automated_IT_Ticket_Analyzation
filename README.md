@@ -1,10 +1,10 @@
 # Automated_IT_Ticket_Analyzation
 This was a macro I created for my supervisor so that he could pull any amount of data from our ticketing system and have 24 different graphs populate. 
 
-**Step1:** The first step was for him to press the first button in the worksheet labeled "control panel". This would create the raw data worksheet that he would then cut the raw data from our ticketing system and paste it into the raw data worksheet.
+**Step1:** The first step was for him to press the Step1 button in the worksheet labeled "control panel". This would create the raw data worksheet that he would then cut the raw data from our ticketing system and paste it into the raw data worksheet.
 ![whole_view](https://github.com/jbradstr/Automated_IT_Ticket_Analyzation/blob/main/AITA_pic1.png?raw=true)
 
-**Step2:** For the second step he simply had to press the second button which takes about 45 seconds or so, but it takes the 10 columns of the raw data pull and transfroms them into 160 columns of data that is then used to create the different charts. (Note names have been deleted for confidentiality.) See below:
+**Step2:** For the second step he simply had to press the Step2 button which takes about 45 seconds or so, but it takes the 10 columns of the raw data pulled and transfroms them into 160 columns of data that is then used to create the different charts. (Note names have been deleted for confidentiality.) See below:
 This picture shows the raw data:
 ![whole_view](https://github.com/jbradstr/Automated_IT_Ticket_Analyzation/blob/main/AITA_pic2_rawdata.png?raw=true)
 
